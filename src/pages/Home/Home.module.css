@@ -10,7 +10,7 @@ width: 100%;
     display: flex;
     justify-content: center;
     margin: 50px 0px;
-    padding: 20px;
+    /* padding: 20px; */
 }
 .CreateContainer{
 width: 60%;
