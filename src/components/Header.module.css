@@ -1,0 +1,35 @@
+.MainHeaderContainer{
+/* width: 100vw; */
+height: 50px;
+padding: 20px 60px;
+background-color: white;
+display: flex;
+align-items: center;
+font-family: 'Roboto', sans-serif;
+}
+.HeaderLogoWrapper{
+display: flex;
+justify-content: flex-start;
+/* margin-right: 100px; */
+}
+.NavigationWrapper{
+display: flex;
+justify-content: center;
+flex: 2;
+}
+.NavigationRoutesDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.NavigationRoutesDiv span{
+    margin-right: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+
+}
+.NavigationRoutesDiv span:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
